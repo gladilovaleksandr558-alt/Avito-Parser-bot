@@ -1,6 +1,1 @@
-{
-  "8041824382": [
-    "https://www.avito.ru/moskva/avtomobili"
-  ]
-}
-
+{}
