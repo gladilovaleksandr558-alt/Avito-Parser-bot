@@ -1,0 +1,3 @@
+from avitoparser import bot, load_user_data
+load_user_data()
+bot.polling()
